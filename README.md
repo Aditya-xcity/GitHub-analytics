@@ -86,7 +86,7 @@ The script generates a pie chart showing the distribution of programming languag
 
 Example Output:
 
-![Language Distribution]([Demo.png](https://github.com/Aditya-xcity/GitHub-analytics/blob/main/Github_Repo_analyzer/Demo.png))
+![Language Distribution](https://raw.githubusercontent.com/Aditya-xcity/GitHub-analytics/main/Github_Repo_analyzer/Demo.png)
 
 ---
 
